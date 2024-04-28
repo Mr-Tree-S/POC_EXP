@@ -1,3 +1,3 @@
-# POC & Exp
+# POC_EXP
 
-Some POC & Exp modified or created by me.
+Some POC_EXP modified or created by me.
