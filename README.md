@@ -2,28 +2,27 @@
 
 Some POC_EXP Records.
 
-## CVE
+## Apache
 
-### Apache
+### Apache HTTP Server
 
 |CVE|Title|EDB-ID|
 |---|-----|------|
 |CVE-2021-41773|Apache HTTP Server 2.4.49 - Path Traversal & Remote Code Execution (RCE)|50383|
 
-### qdPM
+### Apache James Server
+
+|CVE|Title|EDB-ID|
+|---|-----|------|
+|CVE-2015-7611|Apache James Server 2.3.2 - Remote Command Execution (RCE) (Authenticated) (2)|50347|
+
+## qdPM
 
 |CVE|Title|EDB-ID|
 |---|-----|------|
 |CVE-2020-7246|qdPM 9.1 - Remote Code Execution (RCE) (Authenticated) (v2)|50944|
 
-### Directory Traversal
-
-- CVE-2021-43798    Grafana 8.3.0 - Directory Traversal and Arbitrary File Read
-- CVE-2021-41773    Apache HTTP Server 2.4.49 - Path Traversal
-- CVE-2021-42013    Apache HTTP Server 2.4.50 - Path Traversal
-- CVE-2021-24762    Perfect Survey < 1.5.2 - Unauthenticated SQL Injection
-
-### Command Injection
+## Command Injection
 
 - 2021-3493(Linux-priviledge)
 - 2019-11447(CuteNews)
