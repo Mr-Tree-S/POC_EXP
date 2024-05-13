@@ -4,6 +4,12 @@ Some POC_EXP Records.
 
 ## CVE
 
+### Apache
+
+|CVE|Title|EDB-ID|
+|---|-----|------|
+|CVE-2021-41773|Apache HTTP Server 2.4.49 - Path Traversal & Remote Code Execution (RCE)|50383|
+
 ### qdPM
 
 |CVE|Title|EDB-ID|
