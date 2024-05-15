@@ -22,6 +22,12 @@ Some POC_EXP Records.
 |---|-----|------|
 |CVE-2020-7246|qdPM 9.1 - Remote Code Execution (RCE) (Authenticated) (v2)|50944|
 
+## CMS Made Simple
+
+|CVE|Title|EDB-ID|
+|---|-----|------|
+|2018-1000094|CMS Made Simple 2.2.5 - (Authenticated) Remote Code Execution|44976|
+
 ## Command Injection
 
 - 2021-3493(Linux-priviledge)
