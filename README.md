@@ -28,6 +28,12 @@ Some POC_EXP Records.
 |---|-----|------|
 |2018-1000094|CMS Made Simple 2.2.5 - (Authenticated) Remote Code Execution|44976|
 
+## elFinder
+
+|CVE|Title|EDB-ID|
+|---|-----|------|
+|CVE-2019-9194|elFinder 2.1.47 - 'PHP connector' Command Injection|46481|
+
 ## Command Injection
 
 - 2021-3493(Linux-priviledge)
