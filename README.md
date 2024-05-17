@@ -34,6 +34,12 @@ Some POC_EXP Records.
 |---|-----|------|
 |CVE-2019-9194|elFinder 2.1.47 - 'PHP connector' Command Injection|46481|
 
+## Easy Chat Server
+
+|CVE|Title|EDB-ID|
+|---|-----|------|
+|CVE-2004-2466|Easy Chat Server 3.1 - Remote Stack Buffer Overflow (SEH)|50999|
+
 ## Command Injection
 
 - 2021-3493(Linux-priviledge)
