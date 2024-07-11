@@ -4,7 +4,7 @@ Some POC_EXP Records.
 
 ## reference
 
-<https://www.exploit-db.com/>s
+<https://www.exploit-db.com/>
 
 ## Linux_Kernel
 
