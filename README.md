@@ -12,6 +12,7 @@ Some POC_EXP Records.
 |---|-----|------|
 |CVE-2017-16995|Linux Kernel < 4.13.9 (Ubuntu 16.04 / Fedora 27) - Local Privilege Escalation|45010|
 |CVE-2019-7304|snapd < 2.37 (Ubuntu) - 'dirty_sock' Local Privilege Escalation (2)|46362|
+|CVE-2021-4034|PolicyKit-1 0.105-31 - Privilege Escalation|50689|
 
 ## Apache
 
