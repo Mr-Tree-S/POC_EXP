@@ -1,7 +1,5 @@
 # POC_EXP
 
-Some POC_EXP Records.
-
 ## reference
 
 <https://www.exploit-db.com/>
@@ -51,6 +49,18 @@ Some POC_EXP Records.
 |CVE|Title|EDB-ID|
 |---|-----|------|
 |CVE-2020-7246|qdPM 9.1 - Remote Code Execution (RCE) (Authenticated) (v2)|50944|
+
+## sar2html
+
+|CVE|Title|EDB-ID|
+|---|-----|------|
+|N/A|sar2html 3.2.1 - 'plot' Remote Code Execution|49344|
+
+## WordPress
+
+|CVE|Title|EDB-ID|
+|---|-----|------|
+|CVE-2021-24762|WordPress Plugin Perfect Survey - 1.5.1 - SQLi (Unauthenticated)|50766|
 
 ## Command Injection
 
